@@ -6,6 +6,18 @@
 
 ## Steps
 
+### Run Python Markdown Takeout Google
+
+- Run the following command in the terminal:
+
+```shell
+python3 start.py --input_dir /path/to/json/files
+```
+
+- Default output directory: `./data/markdown`
+
+- Wait for the conversion to finish
+
 ### Export Google Keep
 
 - Visit `https://takeout.google.com/settings/takeout`
@@ -38,7 +50,6 @@
 <p align="center">
     <img src="./img/image-4.png" alt="alt text" width="400">
 </p>
-
 
 ## Roadmap
 
