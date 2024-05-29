@@ -51,6 +51,14 @@ python3 start.py --input_dir /path/to/json/files
     <img src="./img/image-4.png" alt="alt text" width="400">
 </p>
 
+## Features
+
+### Group files by year
+
+```shell
+python3 group_files_by_year.py --input-dir "./data/markdown"
+```
+
 ## Roadmap
 
 - [ ] Ability to specify output directory
