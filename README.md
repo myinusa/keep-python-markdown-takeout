@@ -61,6 +61,7 @@ python3 group_files_by_year.py --input-dir "./data/markdown"
 
 ## Roadmap
 
+- [ ] Factor in images
 - [ ] Ability to specify output directory
 - [ ] Record installation and Use
 - [ ] Setup script for Poetry
